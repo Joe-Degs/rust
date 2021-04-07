@@ -1,0 +1,14 @@
+This chapter is going to take me through the real rust programming language constructs.
+What this language is actually made of and the things that make it different and special.
+I am eager to know you rust. Show thyself.
+
+This chapter will take me through
+	1. primitive type like ints, strings, floats etc
+	2. functions and methods (wow methods :-))
+	3. control flow (some functional goodness tooo)
+	4. complex types like structs, enums, generics type things.
+	5. collections like array, vectors, tuples (just the kind of things i like to see.)
+	6. rust's utilities.
+	7. project tooling   ( crates and third party libraries. )
+
+This sure will be a chapter to recon with. Like a december to remember. CORNY SHIT!
